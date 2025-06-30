@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "start": "php -S localhost:8000 public/index.php"
+    },
+    "require": {
+        "slim/slim": "^4",
+        "slim/psr7": "^1.7"
+    }
+}
